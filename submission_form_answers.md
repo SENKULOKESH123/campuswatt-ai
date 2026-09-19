@@ -46,6 +46,7 @@ Rule-based thermal load optimization algorithms, Python, Prompt Engineering work
 GitHub: https://github.com/SENKULOKESH123/campuswatt-ai
 Live Web Prototype: https://senkulokesh123.github.io/campuswatt-ai/
 Presentation Slides: https://docs.google.com/presentation/d/1yGEIxFiQEy_XbmPe1mDXN4ayQkBoeKz0/edit?usp=sharing
+Demo Video: https://1drv.ms/v/c/4245db17183b35f4/IQB-WeXIgXNDRIDxNXh-pwOuAYnczFlB_tMI5Xt-NVsf9ic?e=nsgg3m
 ```
 
 ---

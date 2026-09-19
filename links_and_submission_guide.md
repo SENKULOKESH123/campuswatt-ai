@@ -26,9 +26,9 @@ https://senkulokesh123.github.io/campuswatt-ai/
 https://docs.google.com/presentation/d/1yGEIxFiQEy_XbmPe1mDXN4ayQkBoeKz0/edit?usp=sharing
 (Complete 6-slide deck covering problem context, SDG 7 & 11 alignment, architecture, prototype test cases, responsible AI governance, and future scope)
 
-4. Prototype Explainer Video (1-Minute Demo):
-[Google Drive / YouTube Link to Video]
-(Short walkthrough explaining the real-world campus energy waste problem, how the optimization algorithm works, and the resulting kWh / CO2 savings)
+4. Prototype Explainer Video (Demo):
+https://1drv.ms/v/c/4245db17183b35f4/IQB-WeXIgXNDRIDxNXh-pwOuAYnczFlB_tMI5Xt-NVsf9ic?e=nsgg3m
+(Full walkthrough demonstrating the campus energy waste challenge, real-time optimization algorithm, and kilowatt-hour / carbon reduction metrics)
 ```
 
 *(Note: Replace `<your-github-username>` and the bracketed Google Drive links with your actual links before clicking Submit.)*
