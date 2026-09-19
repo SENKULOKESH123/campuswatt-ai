@@ -15,11 +15,11 @@ Candidate: Senku Lokesh (The ICFAI University, Raipur)
 Internship: 1M1B AI for Sustainability (with IBM SkillsBuild & AICTE)
 
 1. GitHub Repository:
-https://github.com/<your-github-username>/campuswatt-ai
+https://github.com/SENKULOKESH123/campuswatt-ai
 (Contains the full source code, Python multi-room optimization engine, and interactive simulation dashboard)
 
 2. Live Interactive Web Prototype (GitHub Pages):
-https://<your-github-username>.github.io/campuswatt-ai/
+https://senkulokesh123.github.io/campuswatt-ai/
 (Interactive browser dashboard with real-time occupancy sliders, dynamic HVAC regulation, and CEA-compliant carbon reduction analytics)
 
 3. Presentation Deck (16:9 Slides):
