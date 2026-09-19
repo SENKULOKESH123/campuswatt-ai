@@ -23,7 +23,7 @@ https://senkulokesh123.github.io/campuswatt-ai/
 (Interactive browser dashboard with real-time occupancy sliders, dynamic HVAC regulation, and CEA-compliant carbon reduction analytics)
 
 3. Presentation Deck (16:9 Slides):
-[Google Drive Link to CampusWatt_AI_Presentation.pptx or PDF]
+https://docs.google.com/presentation/d/1yGEIxFiQEy_XbmPe1mDXN4ayQkBoeKz0/edit?usp=sharing
 (Complete 6-slide deck covering problem context, SDG 7 & 11 alignment, architecture, prototype test cases, responsible AI governance, and future scope)
 
 4. Prototype Explainer Video (1-Minute Demo):
